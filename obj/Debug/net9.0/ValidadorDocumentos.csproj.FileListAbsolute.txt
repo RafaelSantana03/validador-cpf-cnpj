@@ -1,0 +1,14 @@
+A:\PROJETOS C#\ValidadorDocumentos\obj\Debug\net9.0\ValidadorDocumentos.GeneratedMSBuildEditorConfig.editorconfig
+A:\PROJETOS C#\ValidadorDocumentos\obj\Debug\net9.0\ValidadorDocumentos.AssemblyInfoInputs.cache
+A:\PROJETOS C#\ValidadorDocumentos\obj\Debug\net9.0\ValidadorDocumentos.AssemblyInfo.cs
+A:\PROJETOS C#\ValidadorDocumentos\obj\Debug\net9.0\ValidadorDocumentos.csproj.CoreCompileInputs.cache
+A:\PROJETOS C#\ValidadorDocumentos\bin\Debug\net9.0\ValidadorDocumentos.exe
+A:\PROJETOS C#\ValidadorDocumentos\bin\Debug\net9.0\ValidadorDocumentos.deps.json
+A:\PROJETOS C#\ValidadorDocumentos\bin\Debug\net9.0\ValidadorDocumentos.runtimeconfig.json
+A:\PROJETOS C#\ValidadorDocumentos\bin\Debug\net9.0\ValidadorDocumentos.dll
+A:\PROJETOS C#\ValidadorDocumentos\bin\Debug\net9.0\ValidadorDocumentos.pdb
+A:\PROJETOS C#\ValidadorDocumentos\obj\Debug\net9.0\ValidadorDocumentos.dll
+A:\PROJETOS C#\ValidadorDocumentos\obj\Debug\net9.0\refint\ValidadorDocumentos.dll
+A:\PROJETOS C#\ValidadorDocumentos\obj\Debug\net9.0\ValidadorDocumentos.pdb
+A:\PROJETOS C#\ValidadorDocumentos\obj\Debug\net9.0\ValidadorDocumentos.genruntimeconfig.cache
+A:\PROJETOS C#\ValidadorDocumentos\obj\Debug\net9.0\ref\ValidadorDocumentos.dll
