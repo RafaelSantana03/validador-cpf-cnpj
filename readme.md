@@ -17,12 +17,13 @@ Este projeto em C# permite validar CPF usando regras oficiais de validação, co
 
 ---
 
-## Como executar
-
-```bash
-dotnet run
-
 💡 Tecnologias utilizadas
 C# 10 / .NET 6+
 Visual Studio 2022
 Programação Orientada a Objetos
+
+
+## Como executar
+
+```bash
+dotnet run
