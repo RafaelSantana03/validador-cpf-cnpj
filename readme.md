@@ -1,8 +1,14 @@
-# Validador de Documentos (CPF e CNPJ)
+# Validador de Documentos (CPF)
 
-Projeto em C# com .NET para validação de CPF e CNPJ no terminal. O usuário escolhe o tipo de documento, insere o número, e recebe o resultado com feedback.
+Este projeto em C# permite validar CPF usando regras oficiais de validação, como dígitos verificadores e formatação. Desenvolvido com o objetivo de praticar programação orientada a objetos e uso de console com .NET
 
 ---
+
+## ✅ Funcionalidades
+
+- Validação de **CPF**
+- Interface simples no terminal com menu interativo
+- Tratamento de entradas inválidas
 
 ## Exemplo
 
@@ -15,3 +21,8 @@ Projeto em C# com .NET para validação de CPF e CNPJ no terminal. O usuário es
 
 ```bash
 dotnet run
+
+💡 Tecnologias utilizadas
+C# 10 / .NET 6+
+Visual Studio 2022
+Programação Orientada a Objetos
