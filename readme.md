@@ -6,7 +6,8 @@ Projeto em C# com .NET para validação de CPF e CNPJ no terminal. O usuário es
 
 ## Exemplo
 
-![Exemplo](Captura%20de%20tela%202025-06-12%20232012.png)
+![Captura de tela 2025-06-12 232012](https://github.com/user-attachments/assets/2456cc20-092a-4897-8fa8-febeb12a810c)
+
 
 ---
 
