@@ -12,3 +12,4 @@ A:\PROJETOS C#\ValidadorDocumentos\obj\Debug\net9.0\refint\ValidadorDocumentos.d
 A:\PROJETOS C#\ValidadorDocumentos\obj\Debug\net9.0\ValidadorDocumentos.pdb
 A:\PROJETOS C#\ValidadorDocumentos\obj\Debug\net9.0\ValidadorDocumentos.genruntimeconfig.cache
 A:\PROJETOS C#\ValidadorDocumentos\obj\Debug\net9.0\ref\ValidadorDocumentos.dll
+A:\PROJETOS C#\ValidadorDocumentos\obj\Debug\net9.0\ValidadorDocumentos.sourcelink.json

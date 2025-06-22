@@ -4,6 +4,6 @@
     "\\Models",
     "\\Validators"
   ],
-  "SelectedNode": "\\Program.cs",
+  "SelectedNode": "\\Validators\\CpfValidator.cs",
   "PreviewInSolutionExplorer": false
 }

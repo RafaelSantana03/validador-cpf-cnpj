@@ -30,8 +30,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\PROJETOS C#\\ValidadorDocumentos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\PROJETOS C#\\ValidadorDocumentos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T00:44:21.879Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -44,7 +58,7 @@
               "RelativeDocumentMoniker": "Validators\\CpfValidator.cs",
               "ToolTip": "A:\\PROJETOS C#\\ValidadorDocumentos\\Validators\\CpfValidator.cs",
               "RelativeToolTip": "Validators\\CpfValidator.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T00:47:43.599Z",
               "EditorCaption": ""
@@ -59,21 +73,7 @@
               "RelativeToolTip": "Models\\ValidationResult.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T00:49:04.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "A:\\PROJETOS C#\\ValidadorDocumentos\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "A:\\PROJETOS C#\\ValidadorDocumentos\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T00:44:21.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T00:49:04.835Z"
             },
             {
               "$type": "Document",
@@ -83,7 +83,7 @@
               "RelativeDocumentMoniker": "Validators\\CnpjValidator.cs",
               "ToolTip": "A:\\PROJETOS C#\\ValidadorDocumentos\\Validators\\CnpjValidator.cs",
               "RelativeToolTip": "Validators\\CnpjValidator.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T00:48:00.265Z",
               "EditorCaption": ""
@@ -98,8 +98,7 @@
               "RelativeToolTip": "Validators\\DocumentValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T00:47:16.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T00:47:16.373Z"
             }
           ]
         }
